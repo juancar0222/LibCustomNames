@@ -221,3 +221,6 @@ n["@Deathstorm24701"] = {"Deathstorm24701", "|cee0b11D|r|cdd0d22e|r|ccc0e33a|r|c
 n["@RinkuDOo"] = {"RinkuDOo", "|cff00b3R|r|cff009ai|r|cff0081n|r|cff0069k|r|cff0050u|r|cff0037D|r|cff001eO|r|cff0005o|r"}
 n["@Maeve_o"] = {"Maeve_o", "|cfbbceaM|r|cf79ceda|r|cf37df1e|r|cef5ef4v|r|ceb3ff8e|r|ce71ffb_|r|ce300ffo|r"}
 n["@r0bz0mbie"] = {"яoB", "|cffffffяoB|r"}
+n["@GroissMaister"] = {"GlossMaister", "|cffffffGlossMaister|r"}
+n["@zurrias"] = {"Zurrias", "|cffffffZurrias|r"}
+n["@Iaroking"] = {"Laroking", "|cffffffLaroking|r"}
